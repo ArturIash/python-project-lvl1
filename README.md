@@ -3,6 +3,15 @@
 
 <a href="https://codeclimate.com/github/ArturIash/python-project-lvl39/maintainability"><img src="https://api.codeclimate.com/v1/badges/5455ccfabbcbe16aa118/maintainability" /></a>
 
+Description: Five different logical games with instructions inside.
+
+For install:
+
+1:Clone the repository: git clone git@github.com:ArturIash/python-project-lvl39.git
+2:In terminal run command: make package-install
+
+To start the game type name in terminal:
+
 Brain-Even:
 https://asciinema.org/a/BbCkHT6Y0ZzYjlLdPFPw8zbtg
 
