@@ -3,14 +3,17 @@
 
 <a href="https://codeclimate.com/github/ArturIash/python-project-lvl39/maintainability"><img src="https://api.codeclimate.com/v1/badges/5455ccfabbcbe16aa118/maintainability" /></a>
 
-Brain-Even 
+Brain-Even:
 https://asciinema.org/a/BbCkHT6Y0ZzYjlLdPFPw8zbtg
 
-Brain-Calc
+Brain-Calc:
 https://asciinema.org/a/VWYD2bepmioOLLuMu8T0BlJmX
 
-Brain-Gcd
+Brain-Gcd:
 https://asciinema.org/a/LwD97hAqG1IWQ3R2yDX0vIogG
 
-Brain-Progression
+Brain-Progression:
 https://asciinema.org/a/ETKDSVIU2AgXylHehDzGbZ9wv
+
+Brain-Prime:
+https://asciinema.org/a/mv3v3IIEdB4Ls79v47Mbs77YC
