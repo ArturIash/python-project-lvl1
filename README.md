@@ -20,7 +20,7 @@
 # To start the game type name in terminal:
 
 ## Brain-Even:
-[![asciicast](https://asciinema.org/a/BbCkHT6Y0ZzYjlLdPFPw8zbtg.svg)](https://asciinema.org/a/BbCkHT6Y0ZzYjlLdPFPw8zbtg)
+[![asciicast](https://asciinema.org/a/526359.svg)](https://asciinema.org/a/526359)
 
 ## Brain-Calc:
 [![asciicast](https://asciinema.org/a/VWYD2bepmioOLLuMu8T0BlJmX.svg)](https://asciinema.org/a/VWYD2bepmioOLLuMu8T0BlJmX)
